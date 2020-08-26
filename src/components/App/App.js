@@ -1,10 +1,9 @@
 import React from 'react';
 import './App.css';
 
-import Business from '../Business/Business';
 import BusinessList from '../BusinessList/BusinessList';
 import SearchBar from '../SearchBar/SearchBar';
-import { render } from 'react-dom';
+
 
 class App extends React.Component {
   render() {
